@@ -282,10 +282,6 @@ main {
   margin-left: 0.25rem;
 }
 
-.challenge-item-details.expanded .challenge-item-details-icon {
-  transform: rotate(180deg);
-}
-
 .challenge-item-description {
   margin: 0;
 }
